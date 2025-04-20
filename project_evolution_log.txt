@@ -4,3 +4,4 @@ Initial state for commit 1 on 2025-04-19T07:43:09+00:00: Initial project setup a
 Change for commit 2 on 2025-04-19T09:10:23+00:00: Add .gitignore and README.md
 Change for commit 3 on 2025-04-19T11:24:55+00:00: Create base JSP files: index.jsp, header.jsp, footer.jsp
 Change for commit 4 on 2025-04-20T07:35:26+00:00: Implement Database Connection utility class (Database.java)
+Change for commit 5 on 2025-04-20T09:29:07+00:00: Create Account entity and AccountDao for user management
