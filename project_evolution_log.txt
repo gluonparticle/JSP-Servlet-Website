@@ -7,3 +7,4 @@ Change for commit 4 on 2025-04-20T07:35:26+00:00: Implement Database Connection 
 Change for commit 5 on 2025-04-20T09:29:07+00:00: Create Account entity and AccountDao for user management
 Change for commit 6 on 2025-04-20T12:07:08+00:00: Develop basic User Registration servlet (RegisterControl) and register.jsp
 Change for commit 7 on 2025-04-21T07:07:36+00:00: Develop User Login servlet (LoginControl) and login.jsp
+Change for commit 8 on 2025-04-21T07:59:12+00:00: Implement Logout functionality (LogoutControl)
