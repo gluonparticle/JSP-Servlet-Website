@@ -9,3 +9,4 @@ Change for commit 6 on 2025-04-20T12:07:08+00:00: Develop basic User Registratio
 Change for commit 7 on 2025-04-21T07:07:36+00:00: Develop User Login servlet (LoginControl) and login.jsp
 Change for commit 8 on 2025-04-21T07:59:12+00:00: Implement Logout functionality (LogoutControl)
 Change for commit 9 on 2025-04-21T09:33:40+00:00: Add session management for logged-in users
+Change for commit 10 on 2025-04-22T07:31:27+00:00: Create Product entity and ProductDao for product data
