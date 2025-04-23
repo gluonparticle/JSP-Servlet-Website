@@ -13,3 +13,4 @@ Change for commit 10 on 2025-04-22T07:31:27+00:00: Create Product entity and Pro
 Change for commit 11 on 2025-04-22T08:01:37+00:00: Develop servlet to display all products (HomeControl/ShopControl)
 Change for commit 12 on 2025-04-22T09:55:32+00:00: Design product_list.jsp to display products
 Change for commit 13 on 2025-04-22T11:55:10+00:00: Add basic CSS styling for homepage and product list
+Change for commit 14 on 2025-04-23T08:44:15+00:00: Create Category entity and CategoryDao
