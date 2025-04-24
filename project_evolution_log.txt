@@ -16,3 +16,4 @@ Change for commit 13 on 2025-04-22T11:55:10+00:00: Add basic CSS styling for hom
 Change for commit 14 on 2025-04-23T08:44:15+00:00: Create Category entity and CategoryDao
 Change for commit 15 on 2025-04-23T10:24:40+00:00: Implement product filtering by category
 Change for commit 16 on 2025-04-23T12:20:16+00:00: Style category navigation and product cards
+Change for commit 17 on 2025-04-24T08:49:27+00:00: Implement product detail page (detail.jsp) and DetailControl servlet
