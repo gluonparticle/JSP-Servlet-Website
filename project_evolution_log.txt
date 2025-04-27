@@ -21,3 +21,4 @@ Change for commit 18 on 2025-04-24T09:45:10+00:00: Add 'Add to Cart' functionali
 Change for commit 19 on 2025-04-24T12:11:57+00:00: Refactor common JSP parts into includes (e.g., navigation)
 Change for commit 20 on 2025-04-27T07:42:50+00:00: Implement Cart viewing and item quantity update in cart.jsp
 Change for commit 21 on 2025-04-27T09:22:52+00:00: Implement 'Remove from Cart' functionality
+Change for commit 22 on 2025-04-27T11:37:57+00:00: Add basic input validation for registration and login forms
