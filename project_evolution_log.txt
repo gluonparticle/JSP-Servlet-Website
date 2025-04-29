@@ -25,3 +25,4 @@ Change for commit 22 on 2025-04-27T11:37:57+00:00: Add basic input validation fo
 Change for commit 23 on 2025-04-28T08:36:00+00:00: Create Order entity and OrderDao
 Change for commit 24 on 2025-04-28T09:43:11+00:00: Develop Checkout process: checkout.jsp and CheckoutControl servlet
 Change for commit 25 on 2025-04-28T11:44:27+00:00: Store order details in the database upon successful checkout
+Change for commit 26 on 2025-04-29T09:18:13+00:00: Implement Order History page for users (order_history.jsp, OrderHistoryControl)
