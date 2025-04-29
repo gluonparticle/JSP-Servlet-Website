@@ -28,3 +28,4 @@ Change for commit 25 on 2025-04-28T11:44:27+00:00: Store order details in the da
 Change for commit 26 on 2025-04-29T09:18:13+00:00: Implement Order History page for users (order_history.jsp, OrderHistoryControl)
 Change for commit 27 on 2025-04-29T11:48:45+00:00: Display order details on order history page
 Change for commit 28 on 2025-04-29T14:16:29+00:00: Improve error handling in DAOs and Servlets
+Change for commit 29 on 2025-04-29T15:20:19+00:00: Refactor Dao classes to use try-with-resources for connection management
