@@ -34,3 +34,4 @@ Change for commit 31 on 2025-04-30T10:10:06+00:00: Add pagination to product lis
 Change for commit 32 on 2025-04-30T10:42:34+00:00: Style search results and pagination controls
 Change for commit 33 on 2025-05-02T07:11:01+00:00: Create Admin section: basic admin dashboard (admin_dashboard.jsp)
 Change for commit 34 on 2025-05-02T09:03:52+00:00: Implement Product Management for Admin: Add Product (AdminProductAddControl)
+Change for commit 35 on 2025-05-02T10:36:58+00:00: Implement Product Management for Admin: View/List Products
