@@ -40,3 +40,4 @@ Change for commit 37 on 2025-05-03T11:10:33+00:00: Implement Product Management 
 Change for commit 38 on 2025-05-03T12:55:44+00:00: Add user role management (e.g., 'admin', 'customer')
 Change for commit 39 on 2025-05-04T09:23:53+00:00: Secure Admin routes, accessible only by admin users
 Change for commit 40 on 2025-05-04T10:56:02+00:00: Refine UI/UX across the site: consistent styling, better navigation
+Change for commit 41 on 2025-05-04T13:27:49+00:00: Add Javadoc comments to critical classes and methods
